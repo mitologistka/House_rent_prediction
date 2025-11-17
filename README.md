@@ -5,7 +5,7 @@
 [![Docker](https://img.shields.io/badge/docker-ready-blue.svg)](https://www.docker.com/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-**ML Zoomcamp 2024 - Midterm Project**
+**ML Zoomcamp 2025 - Midterm Project**
 
 ---
 
@@ -951,14 +951,14 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Author
 
-**Your Name**
+**Dominika Wojtczak**
 - GitHub: [@mitologistka](https://github.com/mitologistka)
 - LinkedIn: [Dominika Wojtczak](https://www.linkedin.com/in/dominika-wojtczak-004383283)
 - Email: dwojtczak9@gmail.com
 
 ---
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - **ML Zoomcamp** by [DataTalks.Club](https://datatalks.club/) for the amazing course
 - **Kaggle** for providing the dataset
@@ -967,7 +967,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 📚 References
+## References
 
 - [ML Zoomcamp Course](https://datatalks.club/blog/machine-learning-zoomcamp.html)
 - [Kaggle Dataset](https://www.kaggle.com/datasets/iamsouravbanerjee/house-rent-prediction-dataset)
@@ -980,4 +980,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **⭐ If you find this project helpful, please give it a star!**
 
-**Made with ❤️ for ML Zoomcamp 2024**
+**Made with ❤️ for ML Zoomcamp 2025**
